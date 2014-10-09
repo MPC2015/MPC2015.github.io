@@ -1,7 +1,7 @@
 FIRST CALL FOR PAPERS
 
 12th International Conference on Mathematics of Program Construction (MPC 2015)
-Königswinter, Germany, 29 June - 1 July 2015
+KÃ¶nigswinter, Germany, 29 June - 1 July 2015
 http://www.cs.ox.ac.uk/conferences/MPC2015/
 
 
@@ -11,12 +11,12 @@ The MPC conferences aim to promote the development of mathematical principles
 and techniques that are demonstrably practical and effective in the process of
 constructing computer programs, broadly interpreted.
 
-The 2015 MPC conference will be held in Königswinter, Germany, from 29th June to
+The 2015 MPC conference will be held in KÃ¶nigswinter, Germany, from 29th June to
 1st July 2015. The previous conferences were held in Twente, The Netherlands
 (1989), Oxford, UK (1992), Kloster Irsee, Germany (1995), Marstrand, Sweden
 (1998), Ponte de Lima, Portugal (2000), Dagstuhl, Germany (2002), Stirling, UK
 (2004, colocated with AMAST), Kuressaare, Estonia (2006, colocated with AMAST),
-Marseille, France (2008), Québec City, Canada (2010, colocated with AMAST), and
+Marseille, France (2008), QuÃ©bec City, Canada (2010, colocated with AMAST), and
 Madrid, Spain (2012).
 
 
@@ -67,45 +67,45 @@ Computer Programming.
 
 PROGRAMME COMMITTEE
 
-Ralf Hinze                University of Oxford, United Kingdom (chair)
+Ralf Hinze                University of Oxford, UK (chair)
 
 Eerke Boiten              University of Kent, UK
-Jules Desharnais          Université Laval, Canada
+Jules Desharnais          UniversitÃ© Laval, Canada
 Lindsay Groves            Victoria University of Wellington, New Zealand
 Zhenjiang Hu              National Institute of Informatics, Japan
 Graham Hutton             University of Nottingham, UK
 Johan Jeuring             Utrecht University and Open University, The Netherlands
-Jay McCarthy              Vassar College, United States
-Bernhard Möller           Universität Augsburg, Germany
+Jay McCarthy              Vassar College, US
+Bernhard MÃ¶ller           UniversitÃ¤t Augsburg, Germany
 Shin-Cheng Mu             Academia Sinica, Taiwan
-Dave Naumann              Stevens Institute of Technology, United States
-Pablo Nogueira            Universidad Politécnica de Madrid, Spain
+Dave Naumann              Stevens Institute of Technology, US
+Pablo Nogueira            Universidad PolitÃ©cnica de Madrid, Spain
 Ulf Norell                University of Gothenburg, Sweden
 Bruno C. d. S. Oliveira   The University of Hong Kong, Hong Kong
-José Nuno Oliveira        Universidade do Minho, Portugal
-Alberto Pardo             Universidad de la República, Uruguay
-Christine Paulin-Mohring  INRIA-Université Paris-Sud, France
+JosÃ© Nuno Oliveira        Universidade do Minho, Portugal
+Alberto Pardo             Universidad de la RepÃºblica, Uruguay
+Christine Paulin-Mohring  INRIA-UniversitÃ© Paris-Sud, France
 Tom Schrijvers		  KU Leuven, Belgium
 Emil Sekerinski           McMaster University, Canada
 Tim Sheard                Portland State University, US
 Anya Tafliovich           University of Toronto Scarborough, Canada
 Tarmo Uustalu             Institute of Cybernetics, Estonia
-Janis Voigtländer         Universität Bonn, Germany
+Janis VoigtlÃ¤nder         UniversitÃ¤t Bonn, Germany
 
 
 VENUE
 
-The conference will take place in Königswinter, Maritim Hotel, where
-accommodation has been reserved. Königswinter is situated on the right bank of
+The conference will take place in KÃ¶nigswinter, Maritim Hotel, where
+accommodation has been reserved. KÃ¶nigswinter is situated on the right bank of
 the river Rhine, opposite Germany's former capital Bonn, at the foot of the
 Siebengebirge.
 
 
 LOCAL ORGANIZERS
 
-Ralf Hinze                      University of Oxford, United Kingdom (co-chair)
-Janis Voigtländer               Universität Bonn, Germany (co-chair)
-José Pedro Magalhães            University of Oxford, United Kingdom
-Nicolas Wu                      University of Oxford, United Kingdom
+Ralf Hinze                      University of Oxford, UK (co-chair)
+Janis VoigtlÃ¤nder               UniversitÃ¤t Bonn, Germany (co-chair)
+JosÃ© Pedro MagalhÃ£es            University of Oxford, UK
+Nicolas Wu                      University of Oxford, UK
 
 For queries about local matters, please write to jv@informatik.uni-bonn.de.
