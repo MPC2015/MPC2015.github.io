@@ -79,6 +79,7 @@ Zhenjiang Hu              National Institute of Informatics, Japan
 Graham Hutton             University of Nottingham, UK
 Johan Jeuring             Utrecht University and Open University, The Netherlands
 Jay McCarthy              Vassar College, US
+Larissa Meinicke          The University of Queensland, Australia
 Bernhard Möller           Universität Augsburg, Germany
 Shin-Cheng Mu             Academia Sinica, Taiwan
 Dave Naumann              Stevens Institute of Technology, US
