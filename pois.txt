@@ -1,0 +1,3 @@
+point	title	description
+50.671366,7.194188	Conference Hotel	Maritim Hotel K&ouml;nigswinter
+50.678634,7.193616	K&ouml;nigswinter Station	Trains to/from Cologne, Koblenz, Troisdorf, and Siegburg
