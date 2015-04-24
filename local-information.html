@@ -26,6 +26,14 @@
 div#sidebar{top:56px;}
 </style>
 
+<script src='http://www.openlayers.org/api/OpenLayers.js'></script>
+<style type="text/css">
+  #map {
+  width: 400px;
+  height: 400px;
+  }
+</style>
+
 </head>
 <body style="background-image: none;">
 <!-- all div starts -->
@@ -144,7 +152,17 @@ www.cs.ox.ac.uk/conferences/MPC2015/local-information.html
   </p>
 
   <p>
-    From K&ouml;nigswinter train station, it is a 10 to 15 minutes walk to the conference hotel.
+    From K&ouml;nigswinter train station, it is a 10 to 15 minutes walk to the conference hotel:
+    
+    <div id="map"></div>
+    <script type="text/javascript">
+      var fromProjection = new OpenLayers.Projection('EPSG:4326'); // transform from WGS 1984
+      var toProjection = new OpenLayers.Projection('EPSG:900913'); // to Spherical Mercator Projection
+      var map = new OpenLayers.Map("map"); // see div id="map" above
+      map.addLayer(new OpenLayers.Layer.OSM());
+      map.addLayer(new OpenLayers.Layer.Text("text", {location: "pois.txt", projection: fromProjection}));
+      map.setCenter(new OpenLayers.LonLat(7.195044, 50.675728).transform(fromProjection, toProjection), 15);
+    </script>
   </p>
 
 </div>
