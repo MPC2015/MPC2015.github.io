@@ -111,5 +111,3 @@ Ralf Hinze                      University of Oxford, UK (co-chair)
 Janis Voigtländer               Universität Bonn, Germany (co-chair)
 José Pedro Magalhães            University of Oxford, UK
 Nicolas Wu                      University of Oxford, UK
-
-For queries about local matters, please write to jv@informatik.uni-bonn.de.
